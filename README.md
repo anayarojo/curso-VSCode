@@ -4,6 +4,14 @@ Un pequeño repositorio donde aprenderemos un par de trucos para trabajar rápid
 
 También hay un par de extensiones bastante útiles que les pueden servir.
 
+## Keyboard Shortcuts
+
+* [Linux](./shortcuts/keyboard-shortcuts-linux.pdf)
+
+* [Mac OS](./shortcuts/keyboard-shortcuts-macos.pdf)
+
+* [Windows](./shortcuts/keyboard-shortcuts-windows.pdf)
+
 ## Extensiones
 
 * [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
