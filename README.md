@@ -6,11 +6,11 @@ También hay un par de extensiones bastante útiles que les pueden servir.
 
 ## Keyboard Shortcuts
 
-* [Linux](./shortcuts/keyboard-shortcuts-linux.pdf?raw=true){:target="_blank"}
+* [Linux](./shortcuts/keyboard-shortcuts-linux.pdf)
 
-* [Mac OS](./shortcuts/keyboard-shortcuts-macos.pdf?raw=true){:target="_blank"}
+* [Mac OS](./shortcuts/keyboard-shortcuts-macos.pdf)
 
-* [Windows](./shortcuts/keyboard-shortcuts-windows.pdf?raw=true){:target="_blank"}
+* [Windows](./shortcuts/keyboard-shortcuts-windows.pdf)
 
 ## Extensiones
 
