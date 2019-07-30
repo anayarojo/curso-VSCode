@@ -14,7 +14,7 @@ También hay un par de extensiones bastante útiles que les pueden servir.
 
 * [Windows](./shortcuts/keyboard-shortcuts-windows.pdf)
 
-#### Windows Configuration
+### Windows Configuration
 ```
 [
     {
@@ -90,7 +90,6 @@ También hay un par de extensiones bastante útiles que les pueden servir.
         "key": "ctrl+tab",
         "command": "workbench.action.openNextRecentlyUsedEditorInGroup"
     },
-    
 ]
 ```
 
