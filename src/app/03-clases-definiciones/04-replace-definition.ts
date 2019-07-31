@@ -1,5 +1,3 @@
-import { SuperHeroe } from './extra/classes';
-
 /*
     Objetivo:
         Cambiar únicamente la refencia de SuperHeroe a Heroe
@@ -10,6 +8,7 @@ import { SuperHeroe } from './extra/classes';
         F2
 */
 
+import { SuperHeroe } from './01-clase-definiciones';
 
 const wolverine = new SuperHeroe();
 const ironman   = new SuperHeroe();

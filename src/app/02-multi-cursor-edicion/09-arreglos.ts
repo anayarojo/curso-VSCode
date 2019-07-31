@@ -11,23 +11,27 @@
 
 // Crear un arreglo con los días de la semana
 
-const dias = [
-'lunes',
-'martes',
-'miercoles',
-'jueves',
-'viernes',
-'sabado',
-'domingo'
-]
+// const dias = [
+// 'lunes',
+// 'martes',
+// 'miercoles',
+// 'jueves',
+// 'viernes',
+// 'sabado',
+// 'domingo'
+// ]
 
-lunes
-martes
-miercoles
-jueves
-viernes
-sabado
-domingo
+const dias = ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado', 'Domingo']
+
+// lunes
+// martes
+// miercoles
+// jueves
+// viernes
+// sabado
+// domingo
+
+// dias
 
 
 // Objetivo final
